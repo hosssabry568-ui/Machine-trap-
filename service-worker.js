@@ -4,7 +4,7 @@
 ══════════════════════════════════════════════════════════ */
 
 /* ⬆️ غيّر هذا الرقم عند أي تعديل على الملفات */
-const VERSION         = 3;
+const VERSION         = 4;
 const CACHE_NAME      = `machine-trap-v${VERSION}`;
 const RUNTIME_CACHE   = `machine-trap-runtime-v${VERSION}`;
 const FONT_CACHE      = 'machine-trap-fonts-v1'; // الخطوط نادراً تتغير
